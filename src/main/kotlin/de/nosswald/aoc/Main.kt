@@ -6,6 +6,7 @@ object Main {
     private val days = listOf(
         Day01,
         Day02,
+        Day03,
     )
 
     @JvmStatic
