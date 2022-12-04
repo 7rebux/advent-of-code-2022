@@ -16,7 +16,8 @@ class DaysTest {
     fun answers() = listOf(
         Answer(Day01, 71502, 208191),
         Answer(Day02, 14531, 11258),
-        Answer(Day03, 7889, 2825)
+        Answer(Day03, 7889, 2825),
+        Answer(Day04, 556, 876),
     ).map {
         DynamicTest.dynamicTest("Day ${it.day.number} - ${it.day.title}") {
             print("Testing Part 1 - Expecting ${it.partOne}..")
