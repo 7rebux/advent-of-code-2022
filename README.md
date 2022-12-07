@@ -1,8 +1,8 @@
 # 🎄 [Advent Of Code 2022](https://adventofcode.com/2022)
 
-![Current day](https://img.shields.io/badge/Day-6-blue)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-12-yellow)
-![Days completed](https://img.shields.io/badge/Days%20Completed-6-red)
+![Current day](https://img.shields.io/badge/Day-7-blue)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-14-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-7-red)
 
 ### Daily Solution Index
 
@@ -14,3 +14,4 @@
 | ✔ 04 | Camp Cleanup            |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day04.kt) |
 | ✔ 05 | Supply Stacks           |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day05.kt) |
 | ✔ 06 | Tuning Trouble          |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day06.kt) |
+| ✔ 07 | No Space Left On Device |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day07.kt) |
