@@ -1,7 +1,7 @@
 # 🎄 [Advent Of Code 2022](https://adventofcode.com/2022)
 
 ![Current day](https://img.shields.io/badge/Day-9-blue)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-16-yellow)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-18-yellow)
 ![Days completed](https://img.shields.io/badge/Days%20Completed-9-red)
 
 ### Daily Solution Index
@@ -16,4 +16,4 @@
 | ✔ 06 | Tuning Trouble          |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day06.kt) |
 | ✔ 07 | No Space Left On Device |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day07.kt) |
 | ✔ 08 | Treetop Tree House      |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day08.kt) |
-| ✔ 09 | Rope Bridge             |   ❌    |   ❌    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day09.kt) |
+| ✔ 09 | Rope Bridge             |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day09.kt) |
