@@ -25,6 +25,7 @@ class DaysTest {
         Answer(Day07, 1428881, 10475598),
         Answer(Day08, 1794, 199272),
         Answer(Day09, 6339, 2541),
+        Answer(Day10, 13860, "RZHFGJCB"),
     ).map {
         DynamicTest.dynamicTest("Day ${it.day.number} - ${it.day.title}") {
             print("Testing Part 1 - Expecting ${it.partOne}..")

@@ -1,8 +1,8 @@
 # 🎄 [Advent Of Code 2022](https://adventofcode.com/2022)
 
-![Current day](https://img.shields.io/badge/Day-9-blue)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-18-yellow)
-![Days completed](https://img.shields.io/badge/Days%20Completed-9-red)
+![Current day](https://img.shields.io/badge/Day-10-blue)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-20-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-10-red)
 
 ### Daily Solution Index
 
@@ -17,3 +17,4 @@
 | ✔ 07 | No Space Left On Device |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day07.kt) |
 | ✔ 08 | Treetop Tree House      |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day08.kt) |
 | ✔ 09 | Rope Bridge             |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day09.kt) |
+| ✔ 10 | Cathode-Ray Tube        |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day10.kt) |
