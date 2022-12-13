@@ -1,8 +1,8 @@
 # 🎄 [Advent Of Code 2022](https://adventofcode.com/2022)
 
-![Current day](https://img.shields.io/badge/Day-12-blue)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-24-yellow)
-![Days completed](https://img.shields.io/badge/Days%20Completed-12-red)
+![Current day](https://img.shields.io/badge/Day-13-blue)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-26-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-13-red)
 
 ### Daily Solution Index
 
@@ -20,3 +20,4 @@
 | ✔ 10 | Cathode-Ray Tube        |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day10.kt) |
 | ✔ 11 | Monkey in the Middle    |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day11.kt) |
 | ✔ 12 | Hill Climbing Algorithm |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day12.kt) |
+| ✔ 13 | Distress Signal         |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day13.kt) |
