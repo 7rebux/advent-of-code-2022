@@ -1,4 +1,4 @@
-@file:Suppress("spellCheckingInspection")
+@file:Suppress("SpellCheckingInspection")
 
 package de.nosswald.aoc
 
@@ -29,6 +29,7 @@ class DaysTest {
         Answer(Day11, 90294L, 18170818354L),
         Answer(Day12, 380, 375),
         Answer(Day13, 6187, 23520),
+        Answer(Day14, 873, 24813),
     ).map {
         DynamicTest.dynamicTest("Day ${it.day.number} - ${it.day.title}") {
             print("Testing Part 1 - Expecting ${it.partOne}..")
