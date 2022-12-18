@@ -1,8 +1,8 @@
 # 🎄 [Advent Of Code 2022](https://adventofcode.com/2022)
 
-![Current day](https://img.shields.io/badge/Day-17-blue)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-31-yellow)
-![Days completed](https://img.shields.io/badge/Days%20Completed-15-red)
+![Current day](https://img.shields.io/badge/Day-18-blue)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-33-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-16-red)
 
 ### Daily Solution Index
 
@@ -25,3 +25,4 @@
 | ✔ 15 | Beacon Exclusion Zone   |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day15.kt) |
 | ✔ 16 | Proboscidea Volcanium   |   ❌    |   ❌    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day16.kt) |
 | ✔ 17 | Pyroclastic Flow        |   ⭐    |   ❌    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day17.kt) |
+| ✔ 18 | Boiling Boulders        |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day18.kt) |
