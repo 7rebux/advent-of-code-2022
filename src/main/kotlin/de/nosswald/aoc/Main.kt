@@ -22,6 +22,7 @@ object Main {
         Day16,
         Day17,
         Day18,
+        Day20,
     )
 
     @JvmStatic
