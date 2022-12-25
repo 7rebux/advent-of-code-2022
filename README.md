@@ -1,8 +1,8 @@
 # 🎄 [Advent Of Code 2022](https://adventofcode.com/2022)
 
-![Current day](https://img.shields.io/badge/Day-20-blue)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-35-yellow)
-![Days completed](https://img.shields.io/badge/Days%20Completed-17-red)
+![Current day](https://img.shields.io/badge/Day-25-blue)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-36-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-18-red)
 
 ### Daily Solution Index
 
@@ -28,3 +28,8 @@
 | ✔ 18 | Boiling Boulders         |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day18.kt) |
 | ❌ 19 | Not Enough Minerals      |   ❌    |   ❌    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day19.kt) |
 | ✔ 20 | Grove Positioning System |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day20.kt) |
+| ❌ 21 | Monkey Math              |   ❌    |   ❌    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day21.kt) |
+| ❌ 22 | Monkey Map               |   ❌    |   ❌    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day22.kt) |
+| ❌ 23 | Unstable Diffusion       |   ❌    |   ❌    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day23.kt) |
+| ❌ 24 | Blizzard Basin           |   ❌    |   ❌    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day24.kt) |
+| ✔ 25 | Full of Hot Air          |   ⭐    |   ❌    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nosswald/aoc/days/Day25.kt) |
